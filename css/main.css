@@ -1108,12 +1108,20 @@ h1.intro-header::before {
   h1.intro-header {
     font-size: 3.1rem;
   }
+  
+          .logo{
+        font-size: 15px;
+    }
 }
 
 @media only screen and (max-width: 600px) {
   h1.intro-header {
     font-size: 2.6rem;
   }
+  
+          .logo{
+        font-size: 15px;
+    }
 }
 
 #google_translate_element{
