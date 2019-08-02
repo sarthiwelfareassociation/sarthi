@@ -1,22 +1,5 @@
-/* =================================================================== 
- *
- *  Dazzle v1.0 Vendor/Third Party CSS 
- *  04-27-2017
- *  ------------------------------------------------------------------
- *
- *  TOC:
- *  01. animate on scroll
- *  02. owl carousel
- *  03. lity
- *
- * =================================================================== */
 
 
-/*! 
- *  01. animate on scroll 
- *  https://michalsnik.github.io/aos/
- *
- */
 
 [data-aos][data-aos][data-aos-duration='50'],
 body[data-aos-duration='50'] [data-aos] {
